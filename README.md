@@ -1,6 +1,6 @@
 # volume-backup
 
-Backup the content of voluems to a tar file in the /backups directory.
+Backup the content of voluems to each a .tar.gz file in the /backups directory.
 
 ## Usage
 
