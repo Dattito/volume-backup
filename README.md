@@ -1,6 +1,7 @@
 # volume-backup
 
 Backup the content of voluems to each a .tar.gz file in the /backups directory.
+It will backup the volumes every day at 4am.
 
 ## Usage
 
